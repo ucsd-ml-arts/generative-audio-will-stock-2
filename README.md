@@ -6,7 +6,9 @@ Your Name, yourcontact@ucsd.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+My proposal is to use a gpt2 text generation system trained on Malcolm gladwell’s books, and then make them speak in some way. I want to then read snippets of this text with a voice synthesizer hopefully trained on malcolm’s voice from his many audiobooks narrarated by himself. As one of the most popular loving nonfiction artists, I think he is seen as a contemporary source of wisdom. I was thinking that I could make a box that spits out quotes of “wisdom” to see if it makes any sort of profound revelation. I could make this by laser cutting acrylic at work for the container and using a raspberry pi I have at home. I'm really interested in vocal synthesis, but i'm getting hun up on what the data used to train these systems looks like. I'm curious how much front end work i'd need to do to get something resembling the human voice from a collection of audiobooks alone.
+
+
 
 ## Model/Data
 
