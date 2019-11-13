@@ -1,6 +1,6 @@
 # Project 3 Generative Audio
 
-Your Name, yourcontact@ucsd.edu
+Will Stock, wstock@ucsd.edu
 
 (Your teammate's contact info, if appropriate)
 
